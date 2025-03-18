@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/solehudin" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=0072b1"  height="25" width="auto"></a>
   </p>
 
-```curl -H "password: assalamu'alaikum" https://solehudin.my.id/api/me | base64 -d```
+```curl -H "password: assalamu'alaikum" https://solehudin.id/api/me | base64 -d```
 
 ### Languages and Tools
 
